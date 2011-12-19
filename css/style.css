@@ -1,0 +1,41 @@
+/*
+Johannes Kärnstam | Mall
+
+*/
+
+
+@import url('reset.css');
+
+
+/*
+@font-face {
+  font-family: "Fontname";
+  src: url(../font/fontaname.ttf);
+}
+*/
+
+html, body {
+  overflow-y: auto;
+}
+h1{
+  font-size: 24px;
+}
+h2{
+  font-size: 21px;
+}
+h3{
+  font-size: 18px;
+}
+h4{
+  font-size: 15px;
+}
+p{
+  font-size: 12px;
+}
+
+a{
+}
+a:hover{
+}
+label[
+}
